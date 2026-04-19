@@ -1,0 +1,2 @@
+# pratical
+DevOps git  practical
